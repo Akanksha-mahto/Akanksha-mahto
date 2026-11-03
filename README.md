@@ -1,124 +1,69 @@
-<!--
-  AKANKSHA MAHTO | GITHUB PROFILE README
-  Replace the social links with your actual URLs.
--->
-
 <div align="center">
 
-<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td colspan="2">
+<td colspan="2" bgcolor="#20252d" cellpadding="12">
 
-**🔴 🟡 🟢 &nbsp; akanksha@github: ~ — zsh**
+🔴 🟡 🟢 &nbsp; **akanksha@macbook: ~ — neofetch**
 
 </td>
 </tr>
 <tr>
-<td width="36%" valign="top">
+<td colspan="2" bgcolor="#171c24">
 
-```text
-       _   __
-      / | / /___
-     /  |/ / __ \
-    / /|  / /_/ /
-   /_/ |_/\____/
-
-   AKANKSHA MAHTO
-   ──────────────
-
-   FULL STACK DEV
-   GUJARAT, INDIA
-```
-
-**SYSTEM DIAGNOSTICS**
-
-```yaml
-status: online
-uptime: 3 years
-mode: building
-
-coffee: operational
-creativity: unlimited
-bugs: occasionally_found
-patience: debugging...
-```
-
-**CURRENT PROCESSES**
-
-```bash
-[RUNNING] DietLens
-[RUNNING] Remuse
-[RUNNING] Learning
-[RUNNING] Drawing
-```
-
-</td>
-<td width="64%" valign="top">
-
-**akanksha@github**
-
-```yaml
-OS:             Developer
-Host:           Gujarat, India
-Role:           Full Stack Developer
-Experience:     3 Years
-Editor:         VS Code
-Status:         Building things
-
-Interests:
-  Illustration
-  Visual Storytelling
-  Creative Coding
-```
-
-**── Languages ─────────────────**
-
-```text
-TypeScript
-JavaScript
-Python
-```
-
-**── Tech Stack ─────────────────**
-
-```text
-Frontend:
-  React, Next.js, Tailwind CSS
-  GSAP, Three.js
-
-Backend:
-  Node.js, PostgreSQL, MongoDB
-
-Cloud:
-  Vercel, Railway, Render
-```
+<pre>akanksha@macbook ~ % neofetch</pre>
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="34%" valign="middle" align="center">
 
-**── Connect ─────────────────────────────────────────**
+<img src="./assets/profile.png" width="100%" alt="Akanksha Mahto"/>
 
-```bash
-github    → https://github.com/YOUR_USERNAME
-linkedin  → YOUR_LINKEDIN_URL
-portfolio → YOUR_PORTFOLIO_URL
-```
+</td>
+<td width="66%" valign="top">
+
+<pre>
+<span> </span><b>akanksha@github</b> ─────────────────────────────
+
+  <b>OS:</b> ................ macOS, iOS, Android
+  <b>Host:</b> .............. Gujarat, India
+  <b>Uptime:</b> ............ 3 years experience
+  <b>Role:</b> .............. Full Stack Developer
+  <b>Editor:</b> ............ VS Code, claude code, antigravity, cursor
+
+  <b>Languages.Programming:</b> TypeScript, JavaScript, Python
+
+  <b>Stack.Frontend:</b> .... React, Next.js, Tailwind CSS,
+                          GSAP, Three.js
+  <b>Stack.Backend:</b> .... Node.js, PostgreSQL, MongoDB
+  <b>Stack.Cloud:</b> ...... Vercel, Railway, Render
+
+  <b>Interests:</b> ......... Illustration, Visual Storytelling,
+                          Creative Coding
+
+  ── Projects ─────────────────────────────────────
+
+  <b>Building:</b> .......... DietLens, Remuse
+
+  ── Contact ──────────────────────────────────────
+
+  <b>GitHub:</b> ............ github.com/Akanksha-mahto
+  <b>LinkedIn:</b> .......... linkedin.com/in/akanksha-m2002
+  <b>Portfolio:</b> ......... loading...
+  <b>Portfolio:</b> ......... https://www.instagram.com/ak4nksha.exe/
+</pre>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" bgcolor="#171c24">
 
-```bash
-akanksha@github ~ % echo "building things, one commit at a time."
-```
+<pre>akanksha@macbook ~ % echo "building things"
+</pre>
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<!-- End of README --> 
