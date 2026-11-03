@@ -36,6 +36,8 @@
 
 ── Contact ───────────────────────────────────────
 
+<b>Email:</b> <a href="mailto:the.ak4nksha@gmail.com">the.ak4nksha@gmail.com</a>
+
 <b>GitHub:</b> <a href="https://github.com/Akanksha-mahto">github.com/Akanksha-mahto</a>
 
 <b>LinkedIn:</b> <a href="https://linkedin.com/in/akanksha-m2002">linkedin.com/in/akanksha-m2002</a>
