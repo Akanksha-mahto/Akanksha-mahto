@@ -16,7 +16,7 @@
 </td>
 </tr>
 <tr>
-<td width="34%" valign="middle" align="center">
+<td width="54%" valign="middle" align="center">
 
 <img src="./assets/profile.png" width="100%" alt="Akanksha Mahto"/>
 
