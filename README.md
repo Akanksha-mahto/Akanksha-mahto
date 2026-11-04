@@ -2,12 +2,12 @@
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
   <tr>
     <td colspan="2" bgcolor="#20252d" cellpadding="12">
-      🔴 🟡 🟢 &nbsp; **akanksha@macbook: ~ — neofetch**
+      🔴 🟡 🟢 &nbsp; 📁akanksha@macbook -- -bash --150x40
     </td>
   </tr>
   <tr>
     <td colspan="2" bgcolor="#171c24">
-      <pre>akanksha@macbook ~ % neofetch</pre>
+      <pre>akanksha@macbook -- -neofetch</pre>
     </td>
   </tr>
   <tr>
